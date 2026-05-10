@@ -1,0 +1,20 @@
+# React Native / Node
+node_modules/
+dist/
+*.tsbuildinfo
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Local-only demo app (sample iOS host that consumes the package)
+Demo/
+
+# Local-only working notes / drafts
+notes/
